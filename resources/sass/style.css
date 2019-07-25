@@ -1,0 +1,44 @@
+.material-half-bg {
+    background-color: #17752a;
+}
+.material-half-bg .cover {
+
+    background-color: #0d201e;
+}
+.app-header {
+    background-color: #167229;
+}
+
+.app-header__logo {
+    background-color: #167229;
+
+}
+.treeview.is-expanded [data-toggle="treeview"] {
+
+    border-left-color: #167229;
+
+}
+.app-menu__item:hover {
+    border-left-color: #167229;
+
+}
+.app-title {
+    margin: -20px -30px 30px;
+}
+.link{
+    color: #060606;
+}
+.link:hover{
+    color: #060606;
+    text-decoration:none;
+
+}
+.app-notification__content {
+    width: 230px;
+}
+[v-cloak]{display: none}
+
+.modal {
+    opacity:1;
+
+}
